@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+fastembed
+numpy
+openai
+streamlit
+python-dotenv
